@@ -1,5 +1,4 @@
-Config = {}
-
-Listejob = { "police", "mechanic", "ambulance"}
-
-Config.Commande = "extra"
+Config = {
+	Commande = "extra",
+	Listejob = { "police", "mechanic", "ambulance"}
+}
